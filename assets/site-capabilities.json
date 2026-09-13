@@ -1,0 +1,17 @@
+{
+  "engine": "BrandForge Autopilot V16.5 Autonomous Web Studio",
+  "modular": true,
+  "fixedTemplate": false,
+  "category": "restaurant",
+  "commerceReady": true,
+  "mediaSystem": "Wikimedia reusable photography + local SVG/PNG brand assets",
+  "privacy": {
+    "connectedAccountEmailPublished": false,
+    "secretsAllowedInPublicOutput": false
+  },
+  "realMediaWired": {
+    "hero": 1,
+    "pages": 82,
+    "products": 264
+  }
+}

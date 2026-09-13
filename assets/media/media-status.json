@@ -1,0 +1,11 @@
+{
+  "status": "ready",
+  "count": 14,
+  "provider": "Wikimedia Commons",
+  "licensePolicy": "CC0 / Public Domain / CC BY / CC BY-SA",
+  "wired": {
+    "hero": 1,
+    "pages": 82,
+    "products": 264
+  }
+}

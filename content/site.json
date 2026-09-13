@@ -1,0 +1,15 @@
+{
+  "name": "Mousing",
+  "tagline": "A Place Worth Coming Back To.",
+  "description": "A restaurant and dining brand for menus, reservations, locations, events, catering, and hospitality storytelling.",
+  "category": "restaurant",
+  "businessModel": "ecommerce",
+  "website": "https://mousing-dk.github.io/",
+  "publicContact": {
+    "email": null,
+    "businessPhone": null,
+    "salesPhone": null,
+    "supportPhone": null,
+    "hours": null
+  }
+}

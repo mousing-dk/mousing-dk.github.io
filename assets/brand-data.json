@@ -1,0 +1,57 @@
+{
+  "name": "Mousing",
+  "category": "Restaurant & Dining",
+  "tagline": "A Place Worth Coming Back To.",
+  "description": "A restaurant and dining brand for menus, reservations, locations, events, catering, and hospitality storytelling.",
+  "colors": [
+    "#1a1410",
+    "#fff8ee",
+    "#ff835f",
+    "#f3c15e",
+    "#af9d8f",
+    "#251c17"
+  ],
+  "capabilities": [
+    "Menu",
+    "Reservations",
+    "Private Dining",
+    "Catering",
+    "Locations"
+  ],
+  "support": {
+    "email": null,
+    "phone": null,
+    "salesPhone": null,
+    "businessPhone": null,
+    "hours": null,
+    "center": "https://mousing-dk.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false,
+  "creativeProfile": {
+    "id": "signal-editorial",
+    "hero": "editorial",
+    "density": "airy",
+    "accent": "oversized",
+    "order": [
+      "story",
+      "platform",
+      "visual",
+      "developers"
+    ]
+  },
+  "contactMode": "demo-reserved",
+  "commerceReady": true,
+  "designDna": {
+    "hero": "asymmetric-story",
+    "nav": "edge-rail",
+    "cards": "hard-grid",
+    "grid": "rail",
+    "type": "humanist",
+    "motion": "stagger",
+    "media": "network-art"
+  },
+  "generatedBy": "BrandForge Autopilot V16.5 Autonomous Web Studio"
+}

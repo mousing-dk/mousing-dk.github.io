@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Menu",
+    "slug": "menu",
+    "index": "01",
+    "summary": "Menu is treated as part of the complete Mousing experience — designed to simplify the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Reservations",
+    "slug": "reservations",
+    "index": "02",
+    "summary": "Reservations is treated as part of the complete Mousing experience — designed to connect the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Private Dining",
+    "slug": "private-dining",
+    "index": "03",
+    "summary": "Private Dining is treated as part of the complete Mousing experience — designed to shape the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Catering",
+    "slug": "catering",
+    "index": "04",
+    "summary": "Catering is treated as part of the complete Mousing experience — designed to clarify the system while keeping the experience clear, useful, and maintainable."
+  },
+  {
+    "name": "Locations",
+    "slug": "locations",
+    "index": "05",
+    "summary": "Locations is treated as part of the complete Mousing experience — designed to clarify the system while keeping the experience clear, useful, and maintainable."
+  }
+]

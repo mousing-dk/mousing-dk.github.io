@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mousing-dk.github.io/sitemap.xml

@@ -1,0 +1,187 @@
+{
+  "enabled": true,
+  "status": "researched",
+  "startedAt": "2026-09-13T03:42:59.518Z",
+  "finishedAt": "2026-09-13T03:43:04.098Z",
+  "query": "restaurant A restaurant and dining brand for menus, reservations, locations, events, catering, and hospitality storytelling. best company website",
+  "sources": [
+    {
+      "url": "https://www.sitebuilderreport.com/inspiration/restaurant-websites",
+      "domain": "sitebuilderreport.com",
+      "title": "Restaurant Websites: 35+ Inspiring Design Examples (2026)",
+      "error": null
+    },
+    {
+      "url": "https://www.menubly.com/blog/best-restaurant-website-builders/",
+      "domain": "menubly.com",
+      "title": "10 Best Restaurant Website Builders (2026) - Menubly",
+      "error": null
+    },
+    {
+      "url": "https://marketingltb.com/blog/agency/best-restaurant-web-design-agencies/",
+      "domain": "marketingltb.com",
+      "title": "10 Best Restaurant Web Design Agencies in 2026 - Marketing LTB",
+      "error": null
+    },
+    {
+      "url": "https://www.therestauranthq.com/technology/best-restaurant-website-designs/",
+      "domain": "therestauranthq.com",
+      "title": "20 Best Restaurant Websites | The Restaurant HQ",
+      "error": null
+    },
+    {
+      "url": "https://www.startdesigns.com/blog/best-restaurant-websites/",
+      "domain": "startdesigns.com",
+      "title": "20 Best Restaurant Websites of 2026 (With Design Breakdowns)",
+      "error": null
+    },
+    {
+      "url": "https://www.posusa.com/examples-of-best-restaurant-website-design/",
+      "domain": "posusa.com",
+      "title": "Best Restaurant Website Design Examples (2026) | POSUSA",
+      "error": null
+    }
+  ],
+  "patterns": {
+    "pricing": 3,
+    "commerce": 4,
+    "resources": 4,
+    "booking": 2,
+    "trust": 4,
+    "support": 3,
+    "contact": 5,
+    "docs": 1,
+    "careers": 1
+  },
+  "keywords": [
+    {
+      "word": "best",
+      "count": 49
+    },
+    {
+      "word": "restaurant",
+      "count": 48
+    },
+    {
+      "word": "website",
+      "count": 29
+    },
+    {
+      "word": "design",
+      "count": 20
+    },
+    {
+      "word": "pos",
+      "count": 19
+    },
+    {
+      "word": "web",
+      "count": 14
+    },
+    {
+      "word": "websites",
+      "count": 12
+    },
+    {
+      "word": "agencies",
+      "count": 11
+    },
+    {
+      "word": "free",
+      "count": 10
+    },
+    {
+      "word": "sites",
+      "count": 10
+    },
+    {
+      "word": "examples",
+      "count": 9
+    },
+    {
+      "word": "marketing",
+      "count": 9
+    },
+    {
+      "word": "builders",
+      "count": 8
+    },
+    {
+      "word": "squarespace",
+      "count": 8
+    },
+    {
+      "word": "systems",
+      "count": 8
+    },
+    {
+      "word": "ecommerce",
+      "count": 7
+    },
+    {
+      "word": "development",
+      "count": 7
+    },
+    {
+      "word": "food",
+      "count": 6
+    },
+    {
+      "word": "tools",
+      "count": 6
+    },
+    {
+      "word": "online",
+      "count": 6
+    },
+    {
+      "word": "menu",
+      "count": 6
+    },
+    {
+      "word": "what",
+      "count": 5
+    },
+    {
+      "word": "dining",
+      "count": 5
+    },
+    {
+      "word": "how",
+      "count": 5
+    },
+    {
+      "word": "all",
+      "count": 5
+    },
+    {
+      "word": "pricing",
+      "count": 5
+    },
+    {
+      "word": "builder",
+      "count": 5
+    },
+    {
+      "word": "ordering",
+      "count": 5
+    },
+    {
+      "word": "restaurants",
+      "count": 5
+    },
+    {
+      "word": "calculator",
+      "count": 5
+    },
+    {
+      "word": "top",
+      "count": 4
+    },
+    {
+      "word": "shopify",
+      "count": 4
+    }
+  ],
+  "notes": "Reference research extracts high-level information architecture and market patterns only. BrandForge does not copy source HTML, CSS, brand assets, photography, or long-form text."
+}

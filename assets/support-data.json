@@ -1,0 +1,15 @@
+{
+  "brand": "Mousing",
+  "email": null,
+  "phone": null,
+  "salesPhone": null,
+  "businessPhone": null,
+  "accountEmailPublished": false,
+  "hours": null,
+  "supportCenter": "https://mousing-dk.github.io/support.html",
+  "supportRequest": "https://mousing-dk.github.io/support-request.html",
+  "helpCenter": "https://mousing-dk.github.io/help-center.html",
+  "status": "https://mousing-dk.github.io/status.html",
+  "trustCenter": "https://mousing-dk.github.io/trust-center.html",
+  "github": "https://github.com/mousing-dk"
+}

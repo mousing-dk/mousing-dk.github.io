@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Does BrandForge invent dishes or prices?",
+    "answer": "No. Menu items, ingredients, prices, dietary claims, hours, and locations must come from verified business data."
+  },
+  {
+    "question": "Can reservations be connected?",
+    "answer": "Yes, to a real booking provider."
+  },
+  {
+    "question": "Can delivery be connected?",
+    "answer": "Yes, to a verified ordering or delivery provider."
+  },
+  {
+    "question": "Can private events be added?",
+    "answer": "Yes, with real capacity and inquiry details."
+  }
+]

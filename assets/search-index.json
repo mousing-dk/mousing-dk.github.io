@@ -1,0 +1,764 @@
+[
+  {
+    "title": "Mousing — Mousing",
+    "h1": "Mousing turns every visit into a composed experience.",
+    "description": "A restaurant and dining brand for menus, reservations, locations, events, catering, and hospitality storytelling.",
+    "path": "index.html"
+  },
+  {
+    "title": "Capabilities — Mousing",
+    "h1": "Capabilities built to work together.",
+    "description": "Explore the complete capability system behind Mousing.",
+    "path": "services.html"
+  },
+  {
+    "title": "About — Mousing",
+    "h1": "Built as a complete brand system.",
+    "description": "The direction, principles, and digital identity behind Mousing.",
+    "path": "about.html"
+  },
+  {
+    "title": "Approach — Mousing",
+    "h1": "A deliberate path from idea to experience.",
+    "description": "How Mousing turns direction into a complete digital experience.",
+    "path": "approach.html"
+  },
+  {
+    "title": "Principles — Mousing",
+    "h1": "The rules that keep the experience strong.",
+    "description": "The design and publishing principles used throughout Mousing.",
+    "path": "principles.html"
+  },
+  {
+    "title": "Insights — Mousing",
+    "h1": "Ideas with enough depth to be useful.",
+    "description": "Ideas, frameworks, and practical thinking from the Mousing brand system.",
+    "path": "insights.html"
+  },
+  {
+    "title": "Resources — Mousing",
+    "h1": "Useful paths through the brand.",
+    "description": "Explore the core resources and reference pages for Mousing.",
+    "path": "resources.html"
+  },
+  {
+    "title": "Support — Mousing",
+    "h1": "Support, organized around the next useful action.",
+    "description": "Support center for Mousing.",
+    "path": "support.html"
+  },
+  {
+    "title": "Support Request — Mousing",
+    "h1": "A better support request starts with the right context.",
+    "description": "Prepare a support request for Mousing.",
+    "path": "support-request.html"
+  },
+  {
+    "title": "Help Center — Mousing",
+    "h1": "Find the right answer before opening a request.",
+    "description": "Help center for Mousing.",
+    "path": "help-center.html"
+  },
+  {
+    "title": "Getting Started — Mousing",
+    "h1": "Start with context, then move to the right path.",
+    "description": "Getting started with Mousing.",
+    "path": "getting-started.html"
+  },
+  {
+    "title": "Service Status — Mousing",
+    "h1": "Operational information without invented uptime.",
+    "description": "Operational status information for Mousing.",
+    "path": "status.html"
+  },
+  {
+    "title": "Search — Mousing",
+    "h1": "Find the right page quickly.",
+    "description": "Search the Mousing website.",
+    "path": "search.html"
+  },
+  {
+    "title": "Trust Center — Mousing",
+    "h1": "Trust is built from accurate information.",
+    "description": "Trust, security, privacy, accessibility, and support information for Mousing.",
+    "path": "trust-center.html"
+  },
+  {
+    "title": "FAQ — Mousing",
+    "h1": "Questions, answered clearly.",
+    "description": "Frequently asked questions about Mousing and the structure of this website.",
+    "path": "faq.html"
+  },
+  {
+    "title": "Contact — Mousing",
+    "h1": "Reach the right channel.",
+    "description": "Contact Mousing through verified public business channels.",
+    "path": "contact.html"
+  },
+  {
+    "title": "Site Map — Mousing",
+    "h1": "Every important path, in one place.",
+    "description": "Complete site map for Mousing.",
+    "path": "sitemap.html"
+  },
+  {
+    "title": "Privacy — Mousing",
+    "h1": "Privacy",
+    "description": "Privacy information for the Mousing website.",
+    "path": "privacy.html"
+  },
+  {
+    "title": "Terms — Mousing",
+    "h1": "Terms",
+    "description": "Terms information for the Mousing website.",
+    "path": "terms.html"
+  },
+  {
+    "title": "Accessibility — Mousing",
+    "h1": "Accessibility",
+    "description": "Accessibility information for the Mousing website.",
+    "path": "accessibility.html"
+  },
+  {
+    "title": "Security — Mousing",
+    "h1": "Security",
+    "description": "Security information for the Mousing website.",
+    "path": "security.html"
+  },
+  {
+    "title": "Acceptable Use — Mousing",
+    "h1": "Use public resources responsibly.",
+    "description": "Acceptable-use framework for the Mousing website and public resources.",
+    "path": "acceptable-use.html"
+  },
+  {
+    "title": "Page not found — Mousing",
+    "h1": "That page isn’t here.",
+    "description": "The requested page could not be found on Mousing.",
+    "path": "404.html"
+  },
+  {
+    "title": "Menu Capability — Mousing",
+    "h1": "Menu",
+    "description": "Mousing — Menu. Menu is treated as part of the complete Mousing experience — designed to simplify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "menu.html"
+  },
+  {
+    "title": "Reservations Capability — Mousing",
+    "h1": "Reservations",
+    "description": "Mousing — Reservations. Reservations is treated as part of the complete Mousing experience — designed to connect the system while keeping the experience clear, useful, and maintainable.",
+    "path": "reservations.html"
+  },
+  {
+    "title": "Private Dining Capability — Mousing",
+    "h1": "Private Dining",
+    "description": "Mousing — Private Dining. Private Dining is treated as part of the complete Mousing experience — designed to shape the system while keeping the experience clear, useful, and maintainable.",
+    "path": "private-dining.html"
+  },
+  {
+    "title": "Catering Capability — Mousing",
+    "h1": "Catering",
+    "description": "Mousing — Catering. Catering is treated as part of the complete Mousing experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "catering.html"
+  },
+  {
+    "title": "Locations Capability — Mousing",
+    "h1": "Locations",
+    "description": "Mousing — Locations. Locations is treated as part of the complete Mousing experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "locations.html"
+  },
+  {
+    "title": "Menus are information design — Mousing",
+    "h1": "Menus are information design",
+    "description": "Why hierarchy matters before guests arrive.",
+    "path": "insight-1.html"
+  },
+  {
+    "title": "Hospitality begins online — Mousing",
+    "h1": "Hospitality begins online",
+    "description": "How reservations, hours, access, and atmosphere reduce uncertainty.",
+    "path": "insight-2.html"
+  },
+  {
+    "title": "Photography needs a point of view — Mousing",
+    "h1": "Photography needs a point of view",
+    "description": "Why food and space imagery should feel like one visual system.",
+    "path": "insight-3.html"
+  },
+  {
+    "title": "Solutions — Mousing",
+    "h1": "Solutions",
+    "description": "A structured view of how the brand can solve different needs.",
+    "path": "solutions.html"
+  },
+  {
+    "title": "Stories — Mousing",
+    "h1": "Stories",
+    "description": "Editorial stories, thinking, and perspective from the brand.",
+    "path": "stories.html"
+  },
+  {
+    "title": "Case Studies — Mousing",
+    "h1": "Case Studies",
+    "description": "A framework ready for verified projects and outcomes.",
+    "path": "case-studies.html"
+  },
+  {
+    "title": "Partners — Mousing",
+    "h1": "Partners",
+    "description": "A place for real technology, channel, creative, and business partnerships.",
+    "path": "partners.html"
+  },
+  {
+    "title": "Careers — Mousing",
+    "h1": "Careers",
+    "description": "A careers hub ready for real openings when hiring begins.",
+    "path": "careers.html"
+  },
+  {
+    "title": "Press &amp; Media — Mousing",
+    "h1": "Press &amp; Media",
+    "description": "Press resources, approved brand facts, and media assets.",
+    "path": "press.html"
+  },
+  {
+    "title": "Newsroom — Mousing",
+    "h1": "Newsroom",
+    "description": "Announcements, product updates, releases, and company news.",
+    "path": "newsroom.html"
+  },
+  {
+    "title": "Brand — Mousing",
+    "h1": "Brand",
+    "description": "Brand story, identity principles, visual system, and usage guidance.",
+    "path": "brand.html"
+  },
+  {
+    "title": "Design System — Mousing",
+    "h1": "Design System",
+    "description": "The reusable visual and interaction language behind the website.",
+    "path": "design-system.html"
+  },
+  {
+    "title": "Roadmap — Mousing",
+    "h1": "Roadmap",
+    "description": "A transparent structure for future product, content, and experience development.",
+    "path": "roadmap.html"
+  },
+  {
+    "title": "Changelog — Mousing",
+    "h1": "Changelog",
+    "description": "A place to document meaningful public changes over time.",
+    "path": "changelog.html"
+  },
+  {
+    "title": "Integration Directory — Mousing",
+    "h1": "Integration Directory",
+    "description": "A scalable directory structure ready for real integrations.",
+    "path": "integrations-directory.html"
+  },
+  {
+    "title": "Guides — Mousing",
+    "h1": "Guides",
+    "description": "Long-form educational guides organized around real customer questions.",
+    "path": "guides.html"
+  },
+  {
+    "title": "Downloads — Mousing",
+    "h1": "Downloads",
+    "description": "A resource library ready for real documents, media kits, and tools.",
+    "path": "downloads.html"
+  },
+  {
+    "title": "Community — Mousing",
+    "h1": "Community",
+    "description": "Community pathways, contribution guidance, and public participation.",
+    "path": "community.html"
+  },
+  {
+    "title": "Responsibility — Mousing",
+    "h1": "Responsibility",
+    "description": "A space for verified sustainability, social, accessibility, and governance information.",
+    "path": "responsibility.html"
+  },
+  {
+    "title": "Legal Center — Mousing",
+    "h1": "Legal Center",
+    "description": "A single place to discover public policies and legal information.",
+    "path": "legal-center.html"
+  },
+  {
+    "title": "Cookie Policy — Mousing",
+    "h1": "Cookie Policy",
+    "description": "A policy shell ready to match the actual analytics and cookie configuration.",
+    "path": "cookies.html"
+  },
+  {
+    "title": "Privacy Preferences — Mousing",
+    "h1": "Privacy Preferences",
+    "description": "A privacy-preferences surface ready for a real consent platform.",
+    "path": "preferences.html"
+  },
+  {
+    "title": "Contact Options — Mousing",
+    "h1": "Contact Options",
+    "description": "All configured public contact paths in one clear place.",
+    "path": "contact-options.html"
+  },
+  {
+    "title": "Media Library — Mousing",
+    "h1": "Media Library",
+    "description": "A visual library for brand imagery, campaign assets, and approved media.",
+    "path": "media-library.html"
+  },
+  {
+    "title": "Product Overview — Mousing",
+    "h1": "Product Overview",
+    "description": "A flexible product architecture for brands with multiple offerings.",
+    "path": "product-overview.html"
+  },
+  {
+    "title": "Compare — Mousing",
+    "h1": "Compare",
+    "description": "A comparison framework ready for verified product or plan differences.",
+    "path": "comparison.html"
+  },
+  {
+    "title": "Onboarding — Mousing",
+    "h1": "Onboarding",
+    "description": "A guided starting path for customers, users, or partners.",
+    "path": "onboarding.html"
+  },
+  {
+    "title": "Customer Success — Mousing",
+    "h1": "Customer Success",
+    "description": "A service framework for adoption, enablement, and ongoing support.",
+    "path": "customer-success.html"
+  },
+  {
+    "title": "Enterprise — Mousing",
+    "h1": "Enterprise",
+    "description": "A scalable enterprise section ready for real contracts, controls, and commercial details.",
+    "path": "enterprise.html"
+  },
+  {
+    "title": "International — Mousing",
+    "h1": "International",
+    "description": "A localization-ready global structure without inventing locations or coverage.",
+    "path": "international.html"
+  },
+  {
+    "title": "Accessibility Statement — Mousing",
+    "h1": "Accessibility Statement",
+    "description": "A detailed accessibility commitment and improvement framework.",
+    "path": "accessibility-statement.html"
+  },
+  {
+    "title": "Shop — Mousing",
+    "h1": "Shop",
+    "description": "A commerce-ready storefront shell for verified products and inventory.",
+    "path": "shop.html"
+  },
+  {
+    "title": "Collections — Mousing",
+    "h1": "Collections",
+    "description": "Curated merchandising architecture for product discovery.",
+    "path": "collections.html"
+  },
+  {
+    "title": "New Arrivals — Mousing",
+    "h1": "New Arrivals",
+    "description": "A launch surface for real new products when the catalog is connected.",
+    "path": "new-arrivals.html"
+  },
+  {
+    "title": "Popular Products — Mousing",
+    "h1": "Popular Products",
+    "description": "A merchandising shell that only becomes factual when real sales data is connected.",
+    "path": "best-sellers.html"
+  },
+  {
+    "title": "Category One — Mousing",
+    "h1": "Category One",
+    "description": "A category template ready to be renamed from real catalog data.",
+    "path": "category-one.html"
+  },
+  {
+    "title": "Category Two — Mousing",
+    "h1": "Category Two",
+    "description": "A second category template for a broader catalog.",
+    "path": "category-two.html"
+  },
+  {
+    "title": "Product Detail One — Mousing",
+    "h1": "Product Detail One",
+    "description": "A premium product-detail template using non-commercial demo data.",
+    "path": "product-one.html"
+  },
+  {
+    "title": "Product Detail Two — Mousing",
+    "h1": "Product Detail Two",
+    "description": "A second product-detail template with alternate composition.",
+    "path": "product-two.html"
+  },
+  {
+    "title": "Product Detail Three — Mousing",
+    "h1": "Product Detail Three",
+    "description": "A third product-detail template for layout variety.",
+    "path": "product-three.html"
+  },
+  {
+    "title": "Wishlist — Mousing",
+    "h1": "Wishlist",
+    "description": "A local wishlist experience ready to connect to customer accounts.",
+    "path": "wishlist.html"
+  },
+  {
+    "title": "Cart — Mousing",
+    "h1": "Cart",
+    "description": "A local cart shell that does not process real payments until configured.",
+    "path": "cart.html"
+  },
+  {
+    "title": "Checkout — Mousing",
+    "h1": "Checkout",
+    "description": "A secure checkout handoff architecture; no card data is collected by the static site.",
+    "path": "checkout.html"
+  },
+  {
+    "title": "Order Tracking — Mousing",
+    "h1": "Order Tracking",
+    "description": "A shell ready to connect to a real order-management system.",
+    "path": "order-tracking.html"
+  },
+  {
+    "title": "Shipping — Mousing",
+    "h1": "Shipping",
+    "description": "A policy page ready for verified shipping regions, costs, carriers, and times.",
+    "path": "shipping.html"
+  },
+  {
+    "title": "Returns — Mousing",
+    "h1": "Returns",
+    "description": "A returns framework ready for the business’s real policy.",
+    "path": "returns.html"
+  },
+  {
+    "title": "Size Guide — Mousing",
+    "h1": "Size Guide",
+    "description": "A flexible sizing and specification guide.",
+    "path": "size-guide.html"
+  },
+  {
+    "title": "Gift Cards — Mousing",
+    "h1": "Gift Cards",
+    "description": "A commerce module ready for a real gift-card provider.",
+    "path": "gift-cards.html"
+  },
+  {
+    "title": "Payment Methods — Mousing",
+    "h1": "Payment Methods",
+    "description": "A page that should list only payment methods actually enabled by the business.",
+    "path": "payment-methods.html"
+  },
+  {
+    "title": "Store Locator — Mousing",
+    "h1": "Store Locator",
+    "description": "A location shell that remains empty until real locations are supplied.",
+    "path": "store-locator.html"
+  },
+  {
+    "title": "Lookbook — Mousing",
+    "h1": "Lookbook",
+    "description": "An editorial commerce gallery connecting product and brand storytelling.",
+    "path": "lookbook.html"
+  },
+  {
+    "title": "Editorial — Mousing",
+    "h1": "Editorial",
+    "description": "Long-form visual storytelling for launches, collections, and culture.",
+    "path": "editorial.html"
+  },
+  {
+    "title": "Membership — Mousing",
+    "h1": "Membership",
+    "description": "A loyalty or membership shell ready for a real program.",
+    "path": "membership.html"
+  },
+  {
+    "title": "Rewards — Mousing",
+    "h1": "Rewards",
+    "description": "A rewards framework that stays inactive until a real loyalty system exists.",
+    "path": "rewards.html"
+  },
+  {
+    "title": "Customer Account — Mousing",
+    "h1": "Customer Account",
+    "description": "An account-entry shell ready for a real authenticated commerce platform.",
+    "path": "account.html"
+  },
+  {
+    "title": "Commerce Setup — Mousing",
+    "h1": "Commerce Setup",
+    "description": "A technical guide for connecting verified catalog, inventory, checkout, tax, and fulfillment.",
+    "path": "commerce-setup.html"
+  },
+  {
+    "title": "Catalog — Mousing",
+    "h1": "Catalog",
+    "description": "A complete catalog experience.",
+    "path": "catalog.html"
+  },
+  {
+    "title": "Product Guide — Mousing",
+    "h1": "Product Guide",
+    "description": "A complete product guide experience.",
+    "path": "product-guide.html"
+  },
+  {
+    "title": "Pricing — Mousing",
+    "h1": "Pricing",
+    "description": "A complete pricing experience.",
+    "path": "pricing.html"
+  },
+  {
+    "title": "Developers — Mousing",
+    "h1": "Developers",
+    "description": "A complete developers experience.",
+    "path": "developers.html"
+  },
+  {
+    "title": "Documentation — Mousing",
+    "h1": "Documentation",
+    "description": "A complete documentation experience.",
+    "path": "documentation.html"
+  },
+  {
+    "title": "Refund Policy — Mousing",
+    "h1": "Refund Policy",
+    "description": "A complete refund policy experience.",
+    "path": "refund-policy.html"
+  },
+  {
+    "title": "Media Credits — Mousing",
+    "h1": "Media sources &amp; licenses",
+    "description": "Source and license information for reusable photography selected for Mousing.",
+    "path": "media-credits.html"
+  },
+  {
+    "title": "Catalog Preview 01 — Mousing",
+    "h1": "Catalog Preview 01",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-01.html"
+  },
+  {
+    "title": "Catalog Preview 02 — Mousing",
+    "h1": "Catalog Preview 02",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-02.html"
+  },
+  {
+    "title": "Catalog Preview 03 — Mousing",
+    "h1": "Catalog Preview 03",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-03.html"
+  },
+  {
+    "title": "Catalog Preview 04 — Mousing",
+    "h1": "Catalog Preview 04",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-04.html"
+  },
+  {
+    "title": "Catalog Preview 05 — Mousing",
+    "h1": "Catalog Preview 05",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-05.html"
+  },
+  {
+    "title": "Catalog Preview 06 — Mousing",
+    "h1": "Catalog Preview 06",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-06.html"
+  },
+  {
+    "title": "Catalog Preview 07 — Mousing",
+    "h1": "Catalog Preview 07",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-07.html"
+  },
+  {
+    "title": "Catalog Preview 08 — Mousing",
+    "h1": "Catalog Preview 08",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-08.html"
+  },
+  {
+    "title": "Catalog Preview 09 — Mousing",
+    "h1": "Catalog Preview 09",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-09.html"
+  },
+  {
+    "title": "Catalog Preview 10 — Mousing",
+    "h1": "Catalog Preview 10",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-10.html"
+  },
+  {
+    "title": "Catalog Preview 11 — Mousing",
+    "h1": "Catalog Preview 11",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-11.html"
+  },
+  {
+    "title": "Catalog Preview 12 — Mousing",
+    "h1": "Catalog Preview 12",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-12.html"
+  },
+  {
+    "title": "Catalog Preview 13 — Mousing",
+    "h1": "Catalog Preview 13",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-13.html"
+  },
+  {
+    "title": "Catalog Preview 14 — Mousing",
+    "h1": "Catalog Preview 14",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-14.html"
+  },
+  {
+    "title": "Catalog Preview 15 — Mousing",
+    "h1": "Catalog Preview 15",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-15.html"
+  },
+  {
+    "title": "Catalog Preview 16 — Mousing",
+    "h1": "Catalog Preview 16",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-16.html"
+  },
+  {
+    "title": "Catalog Preview 17 — Mousing",
+    "h1": "Catalog Preview 17",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-17.html"
+  },
+  {
+    "title": "Catalog Preview 18 — Mousing",
+    "h1": "Catalog Preview 18",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-18.html"
+  },
+  {
+    "title": "Catalog Preview 19 — Mousing",
+    "h1": "Catalog Preview 19",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-19.html"
+  },
+  {
+    "title": "Catalog Preview 20 — Mousing",
+    "h1": "Catalog Preview 20",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-20.html"
+  },
+  {
+    "title": "Catalog Preview 21 — Mousing",
+    "h1": "Catalog Preview 21",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-21.html"
+  },
+  {
+    "title": "Catalog Preview 22 — Mousing",
+    "h1": "Catalog Preview 22",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-22.html"
+  },
+  {
+    "title": "Catalog Preview 23 — Mousing",
+    "h1": "Catalog Preview 23",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-23.html"
+  },
+  {
+    "title": "Catalog Preview 24 — Mousing",
+    "h1": "Catalog Preview 24",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-24.html"
+  },
+  {
+    "title": "Catalog Preview 25 — Mousing",
+    "h1": "Catalog Preview 25",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-25.html"
+  },
+  {
+    "title": "Catalog Preview 26 — Mousing",
+    "h1": "Catalog Preview 26",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-26.html"
+  },
+  {
+    "title": "Catalog Preview 27 — Mousing",
+    "h1": "Catalog Preview 27",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-27.html"
+  },
+  {
+    "title": "Catalog Preview 28 — Mousing",
+    "h1": "Catalog Preview 28",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-28.html"
+  },
+  {
+    "title": "Catalog Preview 29 — Mousing",
+    "h1": "Catalog Preview 29",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-29.html"
+  },
+  {
+    "title": "Catalog Preview 30 — Mousing",
+    "h1": "Catalog Preview 30",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-30.html"
+  },
+  {
+    "title": "Catalog Preview 31 — Mousing",
+    "h1": "Catalog Preview 31",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-31.html"
+  },
+  {
+    "title": "Catalog Preview 32 — Mousing",
+    "h1": "Catalog Preview 32",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-32.html"
+  },
+  {
+    "title": "Catalog Preview 33 — Mousing",
+    "h1": "Catalog Preview 33",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-33.html"
+  },
+  {
+    "title": "Catalog Preview 34 — Mousing",
+    "h1": "Catalog Preview 34",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-34.html"
+  },
+  {
+    "title": "Catalog Preview 35 — Mousing",
+    "h1": "Catalog Preview 35",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-35.html"
+  },
+  {
+    "title": "Catalog Preview 36 — Mousing",
+    "h1": "Catalog Preview 36",
+    "description": "A commerce-ready product-detail template awaiting verified catalog data.",
+    "path": "product-36.html"
+  }
+]

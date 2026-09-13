@@ -1,0 +1,2148 @@
+{
+  "enabled": true,
+  "status": "warnings",
+  "engine": "playwright-core",
+  "browser": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "pages": [
+    {
+      "page": "index.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 13,
+        "domNodes": 224,
+        "loadMs": 43,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "index.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 13,
+        "domNodes": 224,
+        "loadMs": 98,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "index.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/index.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 13,
+        "domNodes": 224,
+        "loadMs": 106,
+        "focusables": 48,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 17,
+        "domNodes": 235,
+        "loadMs": 87,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-10.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-10.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-11.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-11.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-12.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-12.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 17,
+        "domNodes": 235,
+        "loadMs": 94,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-10.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-10.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-11.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-11.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-12.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-12.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "shop.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/shop.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 17,
+        "domNodes": 235,
+        "loadMs": 105,
+        "focusables": 66,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-10.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-10.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-11.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-11.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-12.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-12.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 79,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 85,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "about.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/about.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 7,
+        "domNodes": 137,
+        "loadMs": 99,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/visual-06.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/visual-06.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 71,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 68,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "contact.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/contact.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 124,
+        "loadMs": 82,
+        "focusables": 42,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 93,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 85,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "support.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/support.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 164,
+        "loadMs": 78,
+        "focusables": 45,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-08.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-08.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1200,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 69,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-13.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-13.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 73,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-13.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-13.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "search.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/search.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 73,
+        "focusables": 41,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-13.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-13.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 78,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-14.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-14.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 73,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-14.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-14.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "trust-center.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/trust-center.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 140,
+        "loadMs": 80,
+        "focusables": 46,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-14.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-14.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 75,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 62,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "privacy.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/privacy.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 69,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 84,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 82,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "404.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/404.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 102,
+        "loadMs": 77,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/images/404.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/images/404.svg",
+          "complete": true,
+          "naturalWidth": 257,
+          "naturalHeight": 150,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 64,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 76,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "acceptable-use.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/acceptable-use.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 111,
+        "loadMs": 65,
+        "focusables": 39,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-09.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-09.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "faq.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/faq.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 125,
+        "loadMs": 69,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "faq.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/faq.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 125,
+        "loadMs": 68,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "faq.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/faq.html",
+      "issues": [],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 6,
+        "domNodes": 125,
+        "loadMs": 68,
+        "focusables": 40,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-01.html",
+      "viewport": "mobile",
+      "url": "http://127.0.0.1:64810/product-01.html",
+      "issues": [
+        "horizontal overflow",
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 70,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-01.html",
+      "viewport": "tablet",
+      "url": "http://127.0.0.1:64810/product-01.html",
+      "issues": [
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 70,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    },
+    {
+      "page": "product-01.html",
+      "viewport": "desktop",
+      "url": "http://127.0.0.1:64810/product-01.html",
+      "issues": [
+        "2 unlabeled form controls"
+      ],
+      "critical": [],
+      "metrics": {
+        "resourceCount": 12,
+        "domNodes": 113,
+        "loadMs": 72,
+        "focusables": 29,
+        "forms": 0
+      },
+      "brokenImages": [],
+      "pendingImages": [],
+      "imageStates": [
+        {
+          "src": "assets/logo.svg",
+          "currentSrc": "http://127.0.0.1:64810/assets/logo.svg",
+          "complete": true,
+          "naturalWidth": 150,
+          "naturalHeight": 150,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-01.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-01.webp",
+          "complete": true,
+          "naturalWidth": 488,
+          "naturalHeight": 750,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-02.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-02.webp",
+          "complete": true,
+          "naturalWidth": 550,
+          "naturalHeight": 825,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-03.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-03.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-04.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-04.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 903,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-05.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-05.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1046,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-06.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-06.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 2133,
+          "loading": "eager"
+        },
+        {
+          "src": "assets/media/real-07.webp",
+          "currentSrc": "http://127.0.0.1:64810/assets/media/real-07.webp",
+          "complete": true,
+          "naturalWidth": 1600,
+          "naturalHeight": 1067,
+          "loading": "eager"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    "product-01.html/mobile: horizontal overflow",
+    "product-01.html/mobile: 2 unlabeled form controls",
+    "product-01.html/tablet: 2 unlabeled form controls",
+    "product-01.html/desktop: 2 unlabeled form controls"
+  ],
+  "warnings": [],
+  "screenshots": [
+    "index-mobile.png",
+    "index-tablet.png",
+    "index-desktop.png",
+    "shop-mobile.png",
+    "shop-tablet.png",
+    "shop-desktop.png",
+    "about-mobile.png",
+    "about-tablet.png",
+    "about-desktop.png",
+    "contact-mobile.png",
+    "contact-tablet.png",
+    "contact-desktop.png",
+    "support-mobile.png",
+    "support-tablet.png",
+    "support-desktop.png",
+    "search-mobile.png",
+    "search-tablet.png",
+    "search-desktop.png",
+    "trust-center-mobile.png",
+    "trust-center-tablet.png",
+    "trust-center-desktop.png",
+    "privacy-mobile.png",
+    "privacy-tablet.png",
+    "privacy-desktop.png",
+    "404-mobile.png",
+    "404-tablet.png",
+    "404-desktop.png",
+    "acceptable-use-mobile.png",
+    "acceptable-use-tablet.png",
+    "acceptable-use-desktop.png",
+    "faq-mobile.png",
+    "faq-tablet.png",
+    "faq-desktop.png",
+    "product-01-mobile.png",
+    "product-01-tablet.png",
+    "product-01-desktop.png"
+  ]
+}

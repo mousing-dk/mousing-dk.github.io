@@ -1,0 +1,23 @@
+{
+  "brand": "Mousing",
+  "businessModel": "ecommerce",
+  "interactions": [
+    "quick-view",
+    "carousel",
+    "command-palette",
+    "filter-drawer",
+    "comparison",
+    "search",
+    "mega-menu",
+    "tabs"
+  ],
+  "schemas": [
+    "Organization",
+    "WebSite",
+    "Product",
+    "Offer",
+    "BreadcrumbList",
+    "FAQPage"
+  ],
+  "generatedAt": "2026-09-13T03:43:04.149Z"
+}

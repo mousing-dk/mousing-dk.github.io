@@ -1,0 +1,16 @@
+{
+  "name": "Mousing",
+  "short_name": "Mousing",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1410",
+  "theme_color": "#1a1410",
+  "icons": [
+    {
+      "src": "assets/profile-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
